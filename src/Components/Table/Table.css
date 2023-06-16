@@ -1,0 +1,52 @@
+.rows-button {
+    box-sizing: border-box;
+    width: 90px;
+    height: 37px;
+    background: #FFFFFF;
+    border: 1px solid #CFC0FF;
+    border-radius: 39px;
+}
+
+.show {
+
+    width: 33px;
+    height: 15px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 15px;
+    color: #744BFC;
+    margin-right: 12px;
+}
+
+.rows {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.icons {
+    display: flex;
+    flex-direction: column;
+    margin-left: 4px;
+    margin-bottom: 13px;
+}
+
+.btn-content {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.modal-button {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    width: 150px;
+    height: 32.6px;
+    background: #744BFC;
+    border-radius: 39px;
+}

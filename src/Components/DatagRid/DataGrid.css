@@ -1,0 +1,64 @@
+.container {
+    display: flex;
+    text-align: center !important;
+    align-items: center !important;
+    justify-content: center;
+    flex-direction: column;
+    align-items: baseline;
+    margin: 40px 27px 31px 29px;
+    height: 500px;
+    background: linear-gradient(180deg, #EFF2FF -30.56%, rgba(232, 236, 255, 0) 135.85%);
+    border-radius: 6px;
+    margin-left: 10px;
+}
+
+.dataTable {
+    box-sizing: border-box;
+    padding:44px 75px;
+    width: 100%;
+}
+.search-button{
+    width: 345px;
+    height: 42px;
+    display: flex;
+    justify-content: start;
+    margin-bottom: 11px;
+}
+
+.ant-input-group-addon {
+    border-start-start-radius: 20px;
+    border-end-end-radius: 20px;
+}
+.ant-input-search-button {
+    background-color: #744BFC;
+    width: 40px;
+    border-start-end-radius: 20px !important;
+    border-end-end-radius: 20px !important;
+
+}
+
+
+.ant-input-group {
+    display: flex;
+    align-items: center;
+}
+
+.ant-input-group >.ant-input:first-child, :where(.css-dev-only-do-not-override-12jzuas).ant-input-group .ant-input-group-addon:first-child {
+    border-start-start-radius: 20px;
+    border-end-start-radius: 20px;
+}
+
+
+.ant-input {
+    padding-left: 29px !important;
+    padding-top: 5px;
+    padding-bottom: 4px;
+}
+.up-field{
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+}
+.double-button{
+    display: flex;
+}

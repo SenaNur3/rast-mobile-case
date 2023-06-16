@@ -1,0 +1,93 @@
+.header {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    
+    padding-top: 40px;
+    height: 40px;
+ 
+}
+
+.navbar {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    flex-direction: row;
+    margin: 5px 200px;
+}
+
+.link {
+    color: black;
+    text-decoration: none;
+    display: inline-block;
+    margin-right: 88px;
+}
+
+.right-icon {
+    display: flex;
+    flex-direction: row;
+    margin: 2px;
+}
+
+.left-icon {
+ 
+
+}
+
+.logo {
+    background-image: url(/public/icon/1.jpg);
+    width: 124.27px;
+    height: 36.7px;
+    background-repeat: no-repeat;
+
+}
+
+.youtube {
+    background-image: url(/public/icon/youtube.png);
+    background-position: center center;
+    background-color: #744BFC;;
+    background-repeat: no-repeat;
+    height: 18px;
+    background-size: 18px;
+    width: 18px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+.be {
+    background-image: url(/public/icon/3.png);
+    background-position: center center;
+    background-color: fff;;
+    background-repeat: no-repeat;
+    height: 18px;
+    background-size: 18px;
+    width: 18px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+.linked {
+
+    background-image: url(/public/icon/linked.png);
+    background-position: center center;
+    background-color: #fff;;
+    background-repeat: no-repeat;
+    height: 18px;
+    background-size: 18px;
+    width: 18px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+.instagram {
+    background-image: url(/public/icon/instagram.png);
+    background-position: center center;
+    background-color: #744BFC;;
+    background-repeat: no-repeat;
+    height: 18px;
+    background-size: 12px;
+    width: 18px;
+    margin-right: 10px;
+    margin-top: 10px;
+}

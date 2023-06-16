@@ -1,0 +1,37 @@
+
+.ant-btn-icon{
+    font-size: 15px;
+}
+.anticon svg{
+    margin-right:5px ;
+}
+:where(.css-dev-only-do-not-override-12jzuas).ant-btn >span {
+    margin-right: 4px;
+}
+
+.form-send{
+    width: 102px;
+    height: 32.6px;
+    background-color: #744BFC;
+    border-radius: 39px;
+    margin-left: 10px;
+}
+.form-send:hover{
+    background-color: #fff !important;
+    color: #744BFC !important;
+    border-color: #744BFC;
+}
+.form-item{
+    display: flex;
+    flex-direction: column;
+}
+.form-item-btn{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+.form-input{
+    margin-top: 5px;
+    border-radius: 13px;
+    height:38px;
+}
